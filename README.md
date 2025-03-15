@@ -50,3 +50,4 @@ Go check out on yt on how to install n use it yeah !
 
 Make Sure You Edit $websiteUrl in _config.php before starting in localhost.. <br>
 And Enable the use of .htaccess in PHP enviornment
+
